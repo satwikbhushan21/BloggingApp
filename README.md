@@ -1,2 +1,1 @@
-# blogging_app
 # BloggingApp
